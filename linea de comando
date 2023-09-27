@@ -2,4 +2,8 @@ Terminal -linea de comando-
   
 Las lineas de comando son instrucciones a ejecutar codificadas en funciones las cuales son ajustadas mediante parametros.
 
-  
+Cada sistema operativo tiene su interfaz de línea de comando. Windows utiliza cmd y las distribuciones linux utilizan la terminal unix,
+que para este caso es la que vamos a utilizar.
+
+
+
