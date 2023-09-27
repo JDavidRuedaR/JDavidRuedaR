@@ -1,4 +1,4 @@
-<h1 align="lesft"><b>¡Hola, Soy David! </b> <img src="https://cdn.pixabay.com/photo/2015/02/28/00/52/colombia-653002_1280.png" width="18"></h1>
+<h1 align="lesft"><b>¡Hola, soy David! </b> <img src="https://cdn.pixabay.com/photo/2015/02/28/00/52/colombia-653002_1280.png" width="18"></h1>
 <!--  --> Este repositorio tiene como objetivo compartir lo que he aprendido en:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Biología;Genética;Genomica;Ecología;Conservación;Bioinformatica"></a>
