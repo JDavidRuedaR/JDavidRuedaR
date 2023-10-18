@@ -9,9 +9,13 @@
 
 <br>
 
+<div style="text-align: justify"> 
+
 Biólogo apasionado con 4 años de experiencia en biología molecular, genética, ecología y conservación interesado por identificar y resolver incógnitas teórico-prácticas mediante el desarrollo de investigación científica que permita un mejor entendimiento de la naturaleza. 
 
 Profesionalmente he trabajado en grupos interdisciplinares, por ende, me esfuerzo por innovar y aportar positivamente en las actividades que participo, de esta manera facilitar la comprensión del conocimiento generado y así contribuir significativamente a la sociedad.
+<div> 
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
