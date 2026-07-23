@@ -1,19 +1,18 @@
--<h1 align="center"><b> J. David Rueda, M.sc. </b> <img src="https://cdn.pixabay.com/photo/2015/02/28/00/52/colombia-653002_1280.png" width="18"></h1>
-<!--  --> Este repositorio tiene como objetivo compartir lo que he aprendido en:
+-<h1 align="center"><b> J. David Rueda-Reyes, M.sc. </b> <img src="https://cdn.pixabay.com/photo/2015/02/28/00/52/colombia-653002_1280.png" width="18"></h1>
+<!--  --> This repository aims to share what I have learned in bioinformatics
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Biología;Genética;Genomica;Ecología;Conservación;Bioinformatica"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**  
+## **About me:**  
 <picture><img align="right" src="https://scitechdaily.com/images/Genetic-Sequencing-Concept.gif" width = 500px></picture>
 
 <br>
 
 <div style="text-align: justify"> 
 
-Biólogo apasionado con 4 años de experiencia en biología molecular, genética, ecología y conservación interesado por identificar y resolver incógnitas teórico-prácticas mediante el desarrollo de investigación científica que permita un mejor entendimiento de la naturaleza. 
+I'm a passionate Biologist with 10 years' experience in molecular biology, genomics and ecology, focused on conservation. Currently, I'm Interested in eDNA (environmental DNA)
 
-Profesionalmente he trabajado en grupos interdisciplinares, por ende, me esfuerzo por innovar y aportar positivamente en las actividades que participo, de esta manera facilitar la comprensión del conocimiento generado y así contribuir significativamente a la sociedad.
 <div> 
 
 <br><br>
